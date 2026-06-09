@@ -1,0 +1,62 @@
+{
+  "appName": "ECCAT Desktop Apps",
+  "description": "ECCAT System Desktop Applications - Auto-update archive",
+  "items": [
+    {
+      "version": "1.0.0",
+      "shortVersion": 1,
+      "changes": [
+        {
+          "type": "feat",
+          "message": "Initial release with auto-update support"
+        }
+      ],
+      "date": "2026-06-09",
+      "mandatory": false,
+      "url": "https://github.com/waytoo-average/desktop_apps_updates/releases/download/v1.0.0/eccat_admin-1.0.0+1-windows",
+      "platform": "windows"
+    },
+    {
+      "version": "1.0.1",
+      "shortVersion": 2,
+      "changes": [
+        {
+          "type": "feat",
+          "message": "Added offline QR code generation"
+        }
+      ],
+      "date": "2026-06-09",
+      "mandatory": false,
+      "url": "https://github.com/waytoo-average/desktop_apps_updates/releases/download/v1.0.1/eccat_doctor-1.0.1+1-windows",
+      "platform": "windows"
+    },
+    {
+      "version": "1.0.0",
+      "shortVersion": 1,
+      "changes": [
+        {
+          "type": "feat",
+          "message": "Initial student management release"
+        }
+      ],
+      "date": "2026-06-09",
+      "mandatory": false,
+      "url": "https://github.com/waytoo-average/desktop_apps_updates/releases/download/v1.0.0/eccat_student-1.0.0+1-windows",
+      "platform": "windows"
+    },
+    {
+      "version": "0.1.0",
+      "shortVersion": 1,
+      "changes": [
+        {
+          "type": "feat",
+          "message": "Initial labs QR generator release"
+        }
+      ],
+      "date": "2026-06-09",
+      "mandatory": false,
+      "url": "https://github.com/waytoo-average/desktop_apps_updates/releases/download/v0.1.0/eccat_labs-0.1.0+1-windows",
+      "platform": "windows"
+    }
+  ]
+}
