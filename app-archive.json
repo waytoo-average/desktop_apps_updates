@@ -17,20 +17,6 @@
       "platform": "windows"
     },
     {
-      "version": "0.1.0",
-      "shortVersion": 1,
-      "changes": [
-        {
-          "type": "feat",
-          "message": "Initial labs QR generator release"
-        }
-      ],
-      "date": "2026-06-09",
-      "mandatory": false,
-      "url": "https://raw.githubusercontent.com/waytoo-average/desktop_apps_updates/main/releases/eccat_labs-0.1.0+1-windows",
-      "platform": "windows"
-    },
-    {
       "version": "1.0.2",
       "shortVersion": 1,
       "changes": [
@@ -56,6 +42,20 @@
       "date": "2026-06-12",
       "mandatory": false,
       "url": "https://raw.githubusercontent.com/waytoo-average/desktop_apps_updates/main/releases/eccat_doctor-1.1.2+1-windows",
+      "platform": "windows"
+    },
+    {
+      "version": "1.0.0",
+      "shortVersion": 1,
+      "changes": [
+        {
+          "type": "feat",
+          "message": "New version 1.0.0+1 update"
+        }
+      ],
+      "date": "2026-06-12",
+      "mandatory": false,
+      "url": "https://raw.githubusercontent.com/waytoo-average/desktop_apps_updates/main/releases/eccat_labs-1.0.0+1-windows",
       "platform": "windows"
     }
   ]
