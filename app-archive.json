@@ -13,7 +13,7 @@
       ],
       "date": "2026-06-09",
       "mandatory": false,
-      "url": "https://github.com/waytoo-average/desktop_apps_updates/releases/download/v1.0.0/eccat_admin-1.0.0+1-windows",
+      "url": "https://raw.githubusercontent.com/waytoo-average/desktop_apps_updates/main/releases/eccat_admin-1.0.0+1-windows",
       "platform": "windows"
     },
     {
@@ -27,7 +27,7 @@
       ],
       "date": "2026-06-09",
       "mandatory": false,
-      "url": "https://github.com/waytoo-average/desktop_apps_updates/releases/download/v1.0.1/eccat_doctor-1.0.1+1-windows",
+      "url": "https://raw.githubusercontent.com/waytoo-average/desktop_apps_updates/main/releases/eccat_doctor-1.0.1+1-windows",
       "platform": "windows"
     },
     {
@@ -41,7 +41,7 @@
       ],
       "date": "2026-06-09",
       "mandatory": false,
-      "url": "https://github.com/waytoo-average/desktop_apps_updates/releases/download/v1.0.0/eccat_student-1.0.0+1-windows",
+      "url": "https://raw.githubusercontent.com/waytoo-average/desktop_apps_updates/main/releases/eccat_student-1.0.0+1-windows",
       "platform": "windows"
     },
     {
@@ -55,7 +55,7 @@
       ],
       "date": "2026-06-09",
       "mandatory": false,
-      "url": "https://github.com/waytoo-average/desktop_apps_updates/releases/download/v0.1.0/eccat_labs-0.1.0+1-windows",
+      "url": "https://raw.githubusercontent.com/waytoo-average/desktop_apps_updates/main/releases/eccat_labs-0.1.0+1-windows",
       "platform": "windows"
     }
   ]
